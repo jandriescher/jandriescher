@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- quick facts: 25y/o, born and raisend in Berlin, football and cooking enthusiast (Union > Hertha) 
-- full-stack JS dev @ [Klarna](https://www.klarna.com/)
+- quick facts: 25y/o, born, raised and currently based in Berlin, football and cooking enthusiast (Union > Hertha) 
+- graduates from [HTW Berlin](https://www.htw-berlin.de/en/) in 2021 (Bachelor of Science in Internatinal Media and Computing)
+- full-stack JS dev @ [Klarna](https://www.klarna.com/) since 2021
 - passionate about well-structured clean code and smooth user experiences
 
 ### currently working on
