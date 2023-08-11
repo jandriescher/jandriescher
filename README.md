@@ -12,6 +12,12 @@
 - a portfolio website
 - a 3D knife configurator
 
+### currently having fun with
+
+- learning about functional programming
+- catching up on old Final Fantasy games
+- rewatching Neon Genesis Evangelion
+
 ### contact
 
 - ✉️ **email:** jandriescher@me.com
