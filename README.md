@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- quick facts: 26 y/o, born, raised and currently based in Berlin, football and cooking enthusiast (Union > Hertha) 
+- quick facts: 27 y/o, born, raised and currently based in Berlin, football and cooking enthusiast (Union > Hertha) 
 - graduated from [HTW Berlin](https://www.htw-berlin.de/en/) in 2021 (Bachelor of Science in Internatinal Media and Computing)
 - full-stack JS dev @ [Klarna](https://www.klarna.com/) since 2021
 - formerly [tape.tv](https://de.wikipedia.org/wiki/Tape.tv) and [Seven Senders](https://sevensenders.com/)
