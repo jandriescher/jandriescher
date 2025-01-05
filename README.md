@@ -1,22 +1,22 @@
 ### Hi there 👋
 
-- quick facts: 27 y/o, born, raised and currently based in Berlin, football and cooking enthusiast (Union > Hertha) 
+- quick facts: 28 y/o, born, raised and currently based in Berlin, football and cooking enthusiast (Union > Hertha) 
 - graduated from [HTW Berlin](https://www.htw-berlin.de/en/) in 2021 (Bachelor of Science in Internatinal Media and Computing)
-- full-stack JS dev @ [Klarna](https://www.klarna.com/) since 2021
-- formerly [tape.tv](https://de.wikipedia.org/wiki/Tape.tv) and [Seven Senders](https://sevensenders.com/)
+- full-stack JS dev @ [SumUp]([https://www.klarna.com/](https://www.sumup.com) since 2021
+- formerly [Klarna](https://www.klarna.com/), [tape.tv](https://de.wikipedia.org/wiki/Tape.tv) and [Seven Senders](https://sevensenders.com/)
 - passionate about well-structured clean code and smooth user experiences
 
 ### currently working on
 
-- a CLI tool about my favorite night club Sisyphos in Berlin
+- a CLI tool for the Sisyphos night club in Berlin
 - a portfolio website
-- a 3D knife configurator
+- a small web app for my friend's bachelor thesis
 
 ### currently having fun with
 
 - learning about functional programming
-- catching up on old Final Fantasy games
-- rewatching Neon Genesis Evangelion
+- catching up on old Final Fantasy games and crying about the new ones
+- rewatching Neon Genesis Evangelion (again)
 
 ### contact
 
