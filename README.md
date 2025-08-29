@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - quick facts: 28 y/o, born, raised and currently based in Berlin, football and cooking enthusiast (Union > Hertha) 
 - graduated from [HTW Berlin](https://www.htw-berlin.de/en/) in 2021 (Bachelor of Science in Internatinal Media and Computing)
@@ -10,13 +10,13 @@
 
 - a CLI tool for the Sisyphos night club in Berlin
 - a portfolio website
-- a small web app for my friend's bachelor thesis
+- a small iOS journaling app
 
 ### currently having fun with
 
-- learning about functional programming
-- catching up on old Final Fantasy games and crying about the new ones
-- rewatching Neon Genesis Evangelion (again)
+- diving more into the beauty and agony of SSR
+- Switch 2 and the entire Atlus catalogue
+- getting into Radiohead (I know I am late to the party)
 
 ### contact
 
