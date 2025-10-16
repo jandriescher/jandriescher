@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- quick facts: 28 y/o, born, raised and currently based in Berlin, football and cooking enthusiast (Union > Hertha) 
+- quick facts: 28 y/o, born, raised, and based in Berlin, football and cooking enthusiast (Union > Hertha) 
 - graduated from [HTW Berlin](https://www.htw-berlin.de/en/) in 2021 (Bachelor of Science in Internatinal Media and Computing)
-- full-stack JS dev @ [SumUp]([https://www.klarna.com/](https://www.sumup.com) since 2021
-- formerly [Klarna](https://www.klarna.com/), [tape.tv](https://de.wikipedia.org/wiki/Tape.tv) and [Seven Senders](https://sevensenders.com/)
+- full-stack dev @ [SumUp](https://www.sumup.com/en-gb/) since 2025
+- formerly [Klarna](https://www.klarna.com/), [Seven Senders](https://sevensenders.com/), and [tape.tv](https://de.wikipedia.org/wiki/Tape.tv) 
 - passionate about well-structured clean code and smooth user experiences
 
 ### currently working on
